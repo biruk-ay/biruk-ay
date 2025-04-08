@@ -1,8 +1,9 @@
 ## Hi there, I'm Biruk 🌌
 
 **`Computer Engineer`**
+
 An engineer with an experience in development across private and government sectors.
-<p>Below are some projects feel free to check them out</p>
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,6 +14,7 @@ An engineer with an experience in development across private and government sect
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <h2>Some Tools I Use</h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
@@ -34,3 +36,5 @@ An engineer with an experience in development across private and government sect
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="25" height="25"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />
 </p>
+
+<p>Below are some projects feel free to check them out</p>
