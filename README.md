@@ -1,4 +1,4 @@
-## Hi there, I'm Biruk 👋
+## Hi there, I'm Biruk 🌌
 
 <!--
 **biruk-ay/biruk-ay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
